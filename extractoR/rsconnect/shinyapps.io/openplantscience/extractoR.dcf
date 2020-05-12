@@ -1,0 +1,13 @@
+name: extractoR
+title: extractoR
+username:
+account: openplantscience
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2276577
+bundleId: 3128913
+url: https://openplantscience.shinyapps.io/extractoR/
+when: 1589145649.97934
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: test.dat
